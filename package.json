@@ -1,0 +1,16 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Curso platzi ECMASript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrip",
+    "ecmascript"
+  ],
+  "author": "devinson Barrios <devinson.bellido@gmail.com>",
+  "license": "MIT",
+  "type": "module" 
+}
